@@ -1,2 +1,2 @@
 # tempfolder
-temporary folder for github 2
+This is a sample of Main Bio web page
